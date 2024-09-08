@@ -2,10 +2,11 @@
     "id": "google-auth",
     "name": "Google Auth",
     "description": "Implement a google authentication",
-    "version": "1.0.0",
-    "url": "https://github.com/lapetitehanae/Plugin-Google-Auth-Azuriom",
+    "version": "1.0.1",
+    "url": "https://github.com/xlanyleeet/Plugin-Google-Auth-Azuriom",
     "authors": [
-        "lapetitehanaé"
+        "lapetitehanaé",
+        "forked by xlanyleeet"
     ],
     "azuriom_api": "1.0.0",
     "providers": [
